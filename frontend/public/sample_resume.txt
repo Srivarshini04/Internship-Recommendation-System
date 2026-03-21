@@ -1,0 +1,43 @@
+John Doe
+Software Engineer
+Bangalore, Karnataka | john.doe@email.com | +91-9876543210 | linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 3+ years in full-stack development. Proficient in Python, JavaScript, React, Node.js, and cloud technologies. Passionate about building scalable web applications and solving complex problems.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Indian Institute of Technology, Delhi
+2018 - 2022
+CGPA: 8.5/10
+
+SKILLS
+Programming Languages: Python, JavaScript, Java, C++
+Web Technologies: React, Node.js, Express, HTML, CSS, Bootstrap
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud Platforms: AWS, Docker, Kubernetes
+Version Control: Git, GitHub
+Soft Skills: Problem Solving, Team Collaboration, Agile Methodology
+
+WORK EXPERIENCE
+Software Engineer Intern
+TechCorp Solutions, Bangalore
+June 2021 - August 2021
+
+- Developed RESTful APIs using Node.js and Express
+- Built responsive web interfaces with React and Bootstrap
+- Implemented database schemas in MySQL
+- Collaborated with cross-functional teams using Agile methodology
+
+PROJECTS
+E-Commerce Platform (Personal Project)
+- Built a full-stack e-commerce website using MERN stack
+- Implemented user authentication and payment integration
+- Deployed on AWS with Docker containers
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Google IT Support Professional Certificate
+
+LOCATION PREFERENCE
+Open to work in Bangalore, Mumbai, or Remote opportunities
